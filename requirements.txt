@@ -1,0 +1,10 @@
+clip @ git+https://github.com/openai/CLIP@a9b1bf5920416aaeaec965c25dd9e8f98c864f16
+ftfy
+future
+pandas
+regex
+scikit-learn 
+torch
+torchvision
+tqdm
+
